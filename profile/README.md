@@ -10,9 +10,9 @@ Life is too short to work for companies that have lost their fire.
 Are you a GovStar? [We want to meet you.](mailto:tbd@govstar.us?subject=I%20am%20a%20GitHub%20GovStar)
 
 ## What We do
-<img align="right" width="325" height="325" src="./img/StrategyDesignEngineering.png">
-
 *We take a human centered design approach to everything we do:*
+
+<img align="right" width="325" height="325" src="./img/StrategyDesignEngineering.png">
 
 **Strategy**
 - Organizational design, performance, and workplace transformation
