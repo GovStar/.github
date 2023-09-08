@@ -12,7 +12,7 @@ Are you a GovStar? [We want to meet you.](mailto:tbd@govstar.us?subject=I%20am%2
 ## What We do
 *We take a human centered design approach to everything we do:*
 
-<img align="right" width="325" height="325" src="img/StrategyDesignEngineering.png">
+<img align="right" width="325" height="325" src="../profile/img/StrategyDesignEngineering.png">
 
 **Strategy**
 - Organizational design, performance, and workplace transformation
